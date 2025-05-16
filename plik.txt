@@ -1,1 +1,6 @@
-coś w tym pliku
+### coś w tym pliku
+
+a = 5
+b = 8
+
+print(a+b)
